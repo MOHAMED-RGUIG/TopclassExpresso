@@ -6,6 +6,6 @@ frontend:
             - npm install --legacy-peer-deps
             - npm run build
     subdomain: topclassgstc
-name: topclassgstc
+name: TopclassExpresso
 region: us-east-1
 yamlVersion: 2
